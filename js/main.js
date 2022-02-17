@@ -44,7 +44,7 @@ jQuery(document).ready(function( $ ) {
 
   // WordPress Chart
   var doughnutData = [{
-    value: 65,
+    value: 78,
     color: "#1abc9c"
   },
   {
